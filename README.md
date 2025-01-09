@@ -2,7 +2,7 @@
 
 
 <br/> 
-<h1 align="center">Hi 👋, I'm 👨‍🎓 Hemant Singh | 🎓 Aspiring Software Engineer🚀 </h1>
+<h1 align="center">Hi 👋, I'm 👨‍🎓 Hemant Singh | 🎓 Software Engineer🚀 </h1>
 <h3 align="center">A Passionate 👨‍💻 Coding Enthusiast , 🌐 Web Developer , 📚 Lifelong Learner , 🎮 Gamer at Heart</h3>
 <br>
 <hr> 
